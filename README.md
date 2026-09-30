@@ -1,1 +1,1 @@
-# CSA0308-Data_Srructures-Slot-A
+# CSA0308-Data_Structures-Slot-A
